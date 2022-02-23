@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The letter of the King of Poland to His Excellency, the Marquess de Grana from the Turkish camp in the visiers tent at Vienna, the 13 of September 1683 ...</title>
+            <title>Literae Regis Poloniae ad Excellentissimum Dominum Marchionem de Grana. English &amp; Latin</title>
+            <author>John III Sobieski, King of Poland, 1629-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46645</idno>
+            <idno type="STC">Wing J450</idno>
+            <idno type="STC">ESTC R10382</idno>
+            <idno type="EEBO-CITATION">12253658</idno>
+            <idno type="OCLC">ocm 12253658</idno>
+            <idno type="VID">57238</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46645)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57238)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 150:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The letter of the King of Poland to His Excellency, the Marquess de Grana from the Turkish camp in the visiers tent at Vienna, the 13 of September 1683 ...</title>
+                  <title>Literae Regis Poloniae ad Excellentissimum Dominum Marchionem de Grana. English &amp; Latin</title>
+                  <author>John III Sobieski, King of Poland, 1629-1696.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Walter Davis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text in English and Latin.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"According to the original copy printed in Latin at Brussells."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turco-Polish Wars, 1683-1699 --  History --  Sources.</term>
+               <term>Poland --  History --  John III Sobieski, 1674-1696 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:57238:1"/>
+            <pb n="1" facs="tcp:57238:1" rendition="simple:additions"/>
+            <head>The LETTER of the King of Poland, To His Excellency the Marqueſs De Grana, From the <hi>Turkiſh</hi> Camp in the <hi>Viſiers</hi> Tent at <hi>Vienna,</hi> the 13 of <hi>September</hi> 1683. <hi>John</hi> the III, by the Grace of God, King of <hi>Poland,</hi> Great Duke of <hi>Lithuania, Ruſsia, Pruſsia, Maſovia, Samogitia, Livonia, Kiovia, Volhinia, Podolia, Podlachia, Smolenſco, Severia,</hi> and <hi>Czernichoven.</hi>
+            </head>
+            <p>According to the Original Copy Printed in Latin at <hi>Bruſſells.</hi>
+            </p>
+            <p>MOſt Illuſtrious, and well-beloved. Being called to the Relief of endangered <hi>Vienna,</hi> with ſuch Military Forces as were call'd in haſt, in how ſhort a tract of time we Maſter'd firſt the difficulties of the ways, the diſtances of Place, the Banks of the <hi>Danow,</hi> and then the Ridges of Mountains, and the Thichets of the Forreſt of <hi>Vienna;</hi> we make no doubt but Fame hath Informed you. We only ſhall chooſe to Report to your <hi>Illuſtriouſneſs,</hi> what without Injury to the <hi>Chriſtians</hi> in com<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, we cannot conceal. God being our Leader, and the good Fortune of the moſt Serene <hi>Princes, Dukes,</hi> and <hi>Electors</hi> our Com<g ref="char:EOLhyphen"/>panion, the <hi>Chriſtian</hi> Forces, of which the Van was by all commit<g ref="char:EOLhyphen"/>ted to us, yeſterday, in the preſent Fields, obtained an extraordi<g ref="char:EOLhyphen"/>nary, and never to be forgotten Victory over the <hi>Turks</hi> and <hi>Tartars.</hi> For the <hi>Turkiſh</hi> Gran <hi>Viſier,</hi> ſwell'd bigg with the entire Force of the <hi>Eaſt,</hi> and of the <hi>Crim-Tartars,</hi> already ſwallowing in hope, not only what (without Relief) was within three days of its Fate, <hi>Vienna;</hi> but with that, even all <hi>Chriſtendom;</hi> was notwithſtanding in one days Battle and Onſet, entirely Routed and put to Flight. Their Infantry (in the common Style <hi>Janizaries</hi>) as being a ſlower Force, and no wayes equal in Flight to their Horſe, was left be<g ref="char:EOLhyphen"/>hind in the Tents, and abandoned to the Diſcretion of the Con<g ref="char:EOLhyphen"/>queror. The Tents themſelves taking up well nigh two Miles in length and breadth taken. Their Canon, all their Powder, and Amunition, with the Richeſt of their Spoils, became the juſt Re<g ref="char:EOLhyphen"/>ward
+<pb n="2" facs="tcp:57238:2"/>
+of the Victors Arms. <hi>Vienna</hi> freed thus from ſo hard a Siege, and from ſuch Dangers as had almoſt proved Fatal, and the Imperial Seat reſtored to its own <hi>Caeſar.</hi>
+            </p>
+            <p>Night put a ſtop to compleating the Victory, the Enemy be<g ref="char:EOLhyphen"/>taking themſelves to a baſe flight, a Panick Terror Leading the way to <hi>Pannonia,</hi> darkneſs befriended them; nevertheleſs our Light Horſe follows them cloſe at the Heels, and of their Straglers, cut in pieces part, and part they take Priſoners. Moreover, we our ſelves, to the Honour of God, are not wanting to Purſue the ſame Victory, nor will we leave, if it ſo pleaſe the Heavenly Powers to favour us till ſuch time as Winter Quarters ſhall open to the <hi>Chriſtians,</hi> in the Enemies Country. If therefore, the Power of <hi>Europe</hi> with its experienc'd Troops on every Side prepared for War, might contend at any time, to dare any thing worthy the Name of <hi>Chriſtendom,</hi> never could any more ſeaſonable Moments of Affairs be poſſibly obtained than the preſent.</p>
+            <p>For if after the Noiſe of a Victory ſo freſh in Memory, there ſhould follow but even a ſlender appearance of War by Sea and Land, it is not to be doubted, but that <hi>Greece</hi> Groaning under its Tyranny, and even <hi>Conſtantinople</hi> it ſelf would ſhake off the <hi>Uſurper,</hi> and look back to their firſt Originals. The ſame we may believe of <hi>Epyrus, Macedon, Boſnia, Bulgaria, Dalmatia, Walachia, Moldavia,</hi> and the reſt of the Uſurpt Kingdoms and Provinces, as we have no ſlight Indications of the premiſes: Parhaps, that conſtant Viciſſitude which is ſeen in all Humane Affairs, may even now wait the <hi>Turkiſh</hi> Empire, that as proceeding from ſmall beginnings, it hath Increaſ<g ref="char:EOLhyphen"/>ed to that Paſs, as it Labours under its own Weight; ſo Fate changing its courſe, and the Wheel of Variable Fortune turning round, it may Roul Back again to its firſt beginnings, and now that it hath Roſe to a ſufficient Height, it may Tumble down with the greater Fall. But leaving all this to the <hi>Supream Diſpoſer of Crowns and Empires,</hi> we altogether perſwade our ſelves from your <hi>Illuſtriouſneſs,</hi> that you have that ſenſe of Piety, and a Generous Inclination for the <hi>Chriſtian</hi> Affairs, as not only to rejoyce together with us for theſe happy Succeſſes, but at ſome time alſo to Store them in common with us, and that you will let ſlip no opportuni<g ref="char:EOLhyphen"/>ties for the Mutual Advantages of <hi>Chriſtendom:</hi> For which, as we Multiply our moſt Hearty deſires, ſo we wiſh your <hi>Illuſtriouſneſs</hi> the greateſt Health and Proſperity of Affairs. Given from the <hi>Turkiſh</hi> Camp, in the <hi>Viſiers</hi> Tent at <hi>Vienna,</hi> the 13th of <hi>September,</hi> (being the day after that great Victory) in the Year of our Lord, 1683. In the Tenth Year of our Reign.</p>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:57238:2"/>
+            <head>LITERAE Regis Poloniae, Ad Excellentiſſimum Dominum MARCHIONEM De GRANA, Belgii Gubernatorem ex Caſtris <hi>Turci<g ref="char:EOLhyphen"/>cis,</hi> in Tentoriis <hi>Veziriis</hi> ad <hi>Viennam,</hi> Die XIII. <hi>Septembr.</hi> MDCLXXXIII. <hi>JO<g ref="char:EOLhyphen"/>HANNES</hi> III. Dei Gratiâ, REX <hi>Po<g ref="char:EOLhyphen"/>loniae,</hi> Magnus Dux <hi>Lithuaniae, Ruſsiae, Pruſ<g ref="char:EOLhyphen"/>ſiae, Maſoviae, Samogitiae, Livoniae, Kioviae, Volhiniae, Podoliae, Podlachiae, Smolenſciae, Severiae, Czernichoviaeque.</hi>
+            </head>
+            <p>ILluſtiſſime, grate Nobis dilecte. Vocati in Subſidium pereclitan<g ref="char:EOLhyphen"/>tis <hi>Viennae</hi> lectis confeſtim Militantibus Copiis quam Anguſti Temporis ſpatio prius Incommoda viarum, Diſtantiam loci, &amp; Ripas <hi>Danubii;</hi> demum Acumena Montium, &amp; Saltus Sylvarum <hi>Viennenſium</hi> ſuperaverimus, famam diſtuliſſe non dubitamus. Nobis vel illud <hi>Illuſtritati</hi> veſtrae referre placet, quod ſine injuria Communi <hi>Chriſtianorum</hi> reticere non poſſumus; Deo Auſpice, Comite Sereniſſimorum <hi>Principum, Ducum</hi> &amp; <hi>Electorum</hi> for<g ref="char:EOLhyphen"/>tuna, <hi>Chriſtiani</hi> Exercitus, quorum Nobis cuncti detulerunt Imperium, die heſterna in Campis preſentibus inſignem &amp; ſeculis Memorandam de <hi>Turcis</hi> &amp; <hi>Tartaris</hi> reportarunt victoriam. Magnus quippe <hi>Turcarum Veſirus</hi> integris <hi>Orientis</hi> &amp; <hi>Hanicrimenſi<g ref="char:EOLhyphen"/>um</hi> Superbus viribus, jam non <hi>Viennae</hi> duntaxat intra triduum (in ſubventum fuiſſet) periturae, ſed Univerſae <hi>Chriſtianitatis</hi> ſpem deglutiens acie &amp; praelio unius diei caeſus, atque fugatus eſt; Peditatus (vulgo <hi>Janiſſeri</hi>) utpote tardior Militia, aequali<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> cum Equeſtribus fugae inſufficiens in Caſtris deſerta, &amp; victorum relicta diſcretioni, Caſtra ipſa Longitudinem &amp; Latitudinem duorum fere
+<pb n="4" facs="tcp:57238:3"/>
+Milliarium exequantia capta Tormenta, atque integra res Tormen<g ref="char:EOLhyphen"/>taria cum opimis Spoliis in praemium Victricium ceſſere Armorum. <hi>Vienna</hi> gravi Obſcidione, &amp; extremis liberata Periculis, ſuoque ſedes reddita <hi>Caeſari,</hi> ulteriori Victoriae nox metam poſuit, ac turpi fuga ſeſe recipienti Hoſti, terrori Pannico in <hi>Pannoniam</hi> Monſtrante viam, umbra fuit Beneficium: Infidet nihilominus tergo illius levior noſtra Militia, deficienteſque in via partim caedit, par<g ref="char:EOLhyphen"/>tim in Captivitatem abducit. Porro &amp; ipſi in Dei nomine eidem in<g ref="char:EOLhyphen"/>ſiſtimus victoriae, non prius deſtituri, donec, ſi ita propitiis viſum fuerit Superis, hoſtili in terra Armis <hi>Chriſtianis</hi> ſtativa pateant Hyberna. Tali ita<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Rerum <hi>Ottomanicarum</hi> ſubſecuta Confuſione, ſi quidpiam aliquando <hi>Europae</hi> vires ubique promptis accinctae Armis dignum <hi>Chriſtiano</hi> Nomine audere contendant, nunquam opportuniora rerum Momenta praeſentibus nanciſci poterunt; ſi namque ad Clangorem Memoratae victoriae, vel levis Armorum Terra Marique ſuccedat Oſtentatio, proculdubio gemens ſub Tyrannide <hi>Grecia,</hi> ac ipſa <hi>Conſtantinopolis</hi> perfido recalcitraret Domino, ad ſuaſque reſpiceret Origenes. Idem de <hi>Epgro, Macedoniâ, Boſ<g ref="char:EOLhyphen"/>niâ, Bulgariâ, Dalmatiâ, Valachiâ, Moldaviâ,</hi> aliisque Regnis &amp; Provinciis raptis credendum, prout non levia premiſſorum habe<g ref="char:EOLhyphen"/>mus Indicia: Forte jam &amp; illam continuam Rerum Humanarum <hi>Ma<g ref="char:EOLhyphen"/>hometano</hi> Imperio ſupereſſe Viciſſitudinem, ut poſtquam ab exiguis profectum Initiis eo creverit, ut Magnitudine ſua Laboret, rur<g ref="char:EOLhyphen"/>ſus vertente Fato, &amp; volubilis Fortunae Rota alio melinante; ad ſua devolvatur Principia, &amp; ubi ſatis in Altum ſurrexerit, Lapſu graviori ruat: ſed his omnibus <hi>Supremo Imperiorum, Regnorumque Arbitro</hi> relictis, de <hi>Illuſtritate</hi> veſtra omnino perſuaſi ſumus, habere illam tantum Pietatis, &amp; Generoſiſſimae Mentis in res <hi>Chriſtianas,</hi> ut non ſolum foelicibus hiſce con<g ref="char:EOLhyphen"/>gaudeat Succeſſibus, ſed eos Communes ſibi aliquando faciat, nul<g ref="char:EOLhyphen"/>laſque ad mutua <hi>Chriſtianitatis</hi> Commoda intermittat Occaſiones. Quod dum profundiſſimis ingeminamus deſideriis, optimam <hi>Illuſtri<g ref="char:EOLhyphen"/>tati</hi> veſtrae, cum proſpero Rerum Succeſſu precamur valetudinem. Dabatur in Caſtris <hi>Turcicis,</hi> in Tentoriis <hi>Veſiriis,</hi> ad <hi>Viennam,</hi> Die 13<hi rend="sup">th</hi> Menſis <hi>Septembris, Anno Domini MDCLXXXIII. Regni Noſtri X<hi rend="sup">o.</hi> Anno.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed, and are to be Sold by <hi>Walter Davis</hi> in <hi>Amen-Corner,</hi> 1683.</p>
+            <pb facs="tcp:57238:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
